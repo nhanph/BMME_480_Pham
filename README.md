@@ -6,5 +6,6 @@ Course Repository for BMME-890
 - Add collaborator
 - Fix conflict
 
-## HW2
-- 
+## HW2a
+- Read train dataset and do some plotting
+- Create a simple Kaggle submission for Titanic competition
