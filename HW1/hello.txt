@@ -1,4 +1,1 @@
-Hello Git
-Hola Git
-Ciao Git
-Salut Git
+Confliting line - Added by Khoi
