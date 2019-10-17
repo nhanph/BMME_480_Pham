@@ -14,6 +14,11 @@ Course Repository for BMME-890
 - Implement basic matrix multiplication operations using loops.
 - Verify some properties of the trace function.
 
+## HW4
+- Preprocess Titanic data
+- Apply two methods: FeatureSelection + RandomForest, FeatureSelection + SVM.
+- Submit to Kaggle
+
 ## Course Project
 - Add initial analysis
 - Try different methods in both classification and regression
