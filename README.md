@@ -19,6 +19,12 @@ Course Repository for BMME-890
 - Apply two methods: FeatureSelection + RandomForest, FeatureSelection + SVM.
 - Submit to Kaggle
 
+## HW5
+- Preprocess Housing Prices data
+- Try different methods: Random Forest, LASSO, Ridge, ElasticNet
+- Try combining these 4.
+- Submit to Kaggle
+
 ## Course Project
 - Add initial analysis
 - Try different methods in both classification and regression
