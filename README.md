@@ -25,6 +25,11 @@ Course Repository for BMME-890
 - Try combining these 4.
 - Submit to Kaggle
 
+## HW6
+- Perform PCA to get 2 components
+- Doing K-Mean on the transformed dataset
+- Pick the appropriate k.
+
 ## Course Project
 - Add initial analysis
 - Try different methods in both classification and regression
