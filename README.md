@@ -30,6 +30,12 @@ Course Repository for BMME-890
 - Doing K-Mean on the transformed dataset
 - Pick the appropriate k.
 
+## HW7
+- Visualize CIFAR-10 dataset
+- Build a fully-connected neural network with 20 dense layers
+- Apply Batch Normalization, use elu activation
+- Use selu activation, lecun_normal initialization instead
+
 ## Course Project
 - Add initial analysis
 - Try different methods in both classification and regression
